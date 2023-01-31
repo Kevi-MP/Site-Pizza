@@ -27,3 +27,8 @@ div {
 	height: 1vh;
 	background-color: black;
 }
+
+.Document-Title{
+    justify-content: center;
+    height: 15vh;
+}
