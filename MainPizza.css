@@ -80,3 +80,7 @@ height: 3vh;
 img{
     height: 50vh;
 }
+
+.Main-Footer{
+    justify-content: center;
+}
