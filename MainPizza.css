@@ -70,3 +70,11 @@ height: 3vh;
 .Introduction-Title{
     justify-content: center;
 }
+
+.Introduction-Content-Block{
+    justify-content: space-around;
+}
+
+img{
+    height: 40vh;
+}
