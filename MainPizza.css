@@ -24,7 +24,7 @@ div {
 }
 
 .main-splitter {
-	height: 5px;
+	height: 2vh;
 	background-color: black;
 }
 
@@ -59,7 +59,7 @@ height: 3vh;
 }
 
 .nav-splitter {
-	height: 5px;
+	height: 2vh;
 	background-color: black;
 }
 
@@ -84,3 +84,13 @@ img{
 .Main-Footer{
     justify-content: center;
 }
+
+@media(max-width:1000px) {
+	.Main-Body{
+		height: auto;
+	}
+    .Introduction-Content-Block{
+        flex-wrap: wrap;
+    }
+}
+   
