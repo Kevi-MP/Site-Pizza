@@ -24,6 +24,6 @@ div {
 }
 
 .main-splitter {
-	height: 5px;
+	height: 1vh;
 	background-color: black;
 }
