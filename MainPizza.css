@@ -29,19 +29,19 @@ div {
 }
 
 .Bouton-1 {
-    background-color: white;
+    background-color: #a1785c;
     height: 3vh;
     justify-content: center;
 }
 
 .Bouton-2 {
-    background-color: white;
+    background-color: #FDE992;
     height: 3vh;
     justify-content: center;
 }
 
 .Bouton-3 {
-    background-color: white;
+    background-color:#ee6b6e;
     height: 3vh;
     justify-content: center;
 }
