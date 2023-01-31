@@ -58,3 +58,19 @@ div {
     justify-content: center;
 }
 
+.Navigation-menu{
+height: 3vh;
+}
+
+.nav-splitter {
+	height: 5px;
+	background-color: black;
+}
+
+.space-to-intro{
+    height: 5vh;
+}
+
+.Introduction-Title{
+    justify-content: center;
+}
