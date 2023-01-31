@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	background-color: wheat;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	color: black;
+}
+
+div {
+	display: flex;
+	width: 100%;
+	height: 100%;
+}
+
+.Main-Body {
+	flex-direction: column;
+}
+
+.Main-Header{
+    height: 10vh;
+    justify-content: center;
+
+}
+
+.main-splitter {
+	height: 5px;
+	background-color: black;
+}
