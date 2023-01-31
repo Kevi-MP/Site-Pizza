@@ -13,7 +13,18 @@ div {
 	height: 100%;
 }
 
+.Main-Body {
+	flex-direction: column;
+}
+
 .Main-Header{
+    height: 10vh;
     justify-content: center;
 
 }
+
+.main-splitter {
+	height: 5px;
+	background-color: black;
+}
+
