@@ -33,6 +33,24 @@ div {
     height: 15vh;
 }
 
+.Main-Block {
+	justify-content: space-around;
+
+}
+.Illustration1{
+	width: 60vh;
+	height: 60vh;
+}
+
+.Illustration2{
+	width: 60vh;
+	height: 50vh;
+}
+
+.Main-Text-Block{
+	justify-content: center;
+}
+
 /* unvisited link */
 a:link { text-decoration: none;
 	color: black; }
@@ -53,7 +71,7 @@ a:link { text-decoration: none;
 		.Main-Body{
 			height: auto;
 		}
-		.Introduction-Content-Block{
+		.Main-Block{
 			flex-wrap: wrap;
 		}
 	}
