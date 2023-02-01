@@ -33,6 +33,10 @@ div {
     height: 15vh;
 }
 
+.Formulaire{
+    justify-content: center;
+}
+
 .Main-Footer{
     justify-content: center;
 }
