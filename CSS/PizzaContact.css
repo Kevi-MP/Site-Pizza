@@ -36,9 +36,19 @@ div {
 .Formulaire{
     justify-content: center;
 }
+.image1{
+    width: 60vh;
+    height: 60vh;
+}
+
+.image2{
+    width: 60vh;
+    height: 60vh;
+}
 
 .Main-Footer{
     justify-content: center;
+    height: 40vh;
 }
 
 /* unvisited link */
