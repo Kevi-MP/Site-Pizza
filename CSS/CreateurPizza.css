@@ -32,3 +32,28 @@ div {
     justify-content: center;
     height: 15vh;
 }
+
+/* unvisited link */
+a:link { text-decoration: none;
+	color: black; }
+	  
+	  /* visited link */
+	  a:visited { text-decoration: none;
+	color: black; }
+	  
+	  /* mouse over link */
+	  a:hover { text-decoration: none; 
+	color :greenyellow}
+	  
+	  /* selected link */
+	  a:active { text-decoration: none; }
+	  
+	
+	@media(max-width:1000px) {
+		.Main-Body{
+			height: auto;
+		}
+		.Introduction-Content-Block{
+			flex-wrap: wrap;
+		}
+	}
