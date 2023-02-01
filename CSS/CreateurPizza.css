@@ -33,22 +33,23 @@ div {
     height: 15vh;
 }
 
-.Main-Block {
-	justify-content: space-around;
-
-}
 .Illustration1{
-	width: 60vh;
+	width: 90vh;
 	height: 60vh;
 }
 
 .Illustration2{
-	width: 60vh;
+	width: 100vh;
 	height: 50vh;
 }
 
 .Main-Text-Block{
 	justify-content: center;
+}
+
+.Main-Block {
+	justify-content: space-evenly;
+
 }
 
 .Main-Footer{
